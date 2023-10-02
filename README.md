@@ -26,7 +26,7 @@ https://i.imgur.com/huGkS0B.jpeg
 4. npm start
 
 ## Snapshots
-<img src="https://i.imgur.com/huGkS0B.jpeg" alt="website-preview" width="100%" height="500px">
+<img src="https://i.imgur.com/huGkS0B.jpeg" alt="website-preview" width="100%" height="450px">
 
 ## Contributing
 
